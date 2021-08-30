@@ -19,7 +19,7 @@
  *Hardware, Logística  e Sistemas*
 
 - 📫 Como entrar em contato comigo:
- [me mande um e-mail](gabrieltijon@gmail.com)
+ [me mande oi no whatsApp](https://api.whatsapp.com/send?phone=11955965547&text=olá%20Gabriel!)
 
 - 😄 Pronomes: 
 *Ele/Dele*

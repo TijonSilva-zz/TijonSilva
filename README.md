@@ -25,4 +25,4 @@
 *Ele/Dele*
 
 - ⚡ Curiosidade:
-*Sou muito bom com Hardwares, Gosto muito de ouvir muisicas nas horas vagas e namoro com a* @juliabarao
+*Sou muito bom com Hardwares, Gosto muito de ouvir muisicas nas horas vagas🎵🎶🎼*

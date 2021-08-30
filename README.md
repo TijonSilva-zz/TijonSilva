@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=TijonSilva&color=006bed)
 
-<h3> 🖥️: &nbsp;Sobre mim </h3>
+<h3> 🖥️: &nbsp;Informações sobre mim</h3>
 
 - ⌨️ &nbsp; Iniciando na programação, em busca de estagio.
 - 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/">UNINOVE</a>.

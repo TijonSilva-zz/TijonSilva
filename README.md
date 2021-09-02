@@ -42,6 +42,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin:Gabriel Tijon da Silva](https://img.shields.io/badge/-GabrielTijon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin:Gabriel Tijon da Silva](https://img.shields.io/badge/-GabrielTijon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-tijon-2a292021b)
 [![Gmail Badge](https://img.shields.io/badge/-gabrieltijon@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:GABRIELTIJON@GMAIL.COM)](mailto:gabrieltijon@gmail.com)
 [![GitHub TijonSilva]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/TijonSilva)

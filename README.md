@@ -31,17 +31,17 @@
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username='TijonSilva','&theme=radical&hide_langs_below=1" />
+<a href="https://github.com/TijonSilva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TijonSilva&theme=radical&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username="TijonSilva"&show_icons=true&theme=radical&line_height=27" alt="**TijonSilva** github stats"/>
+<a href="https://github.com/TijonSilva">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TijonSilva&show_icons=true&theme=radical&line_height=27" alt="**TijonSilva** github stats"/>
 </a>
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin:Gabriel Tijon da Silva](https://img.shields.io/badge/-GabrielTijon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tijon-2a292021b)](https://www.linkedin.com/in/gabriel-tijon-2a292021b)
+[![Linkedin:Gabriel Tijon da Silva](https://img.shields.io/badge/-GabrielTijon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tijon-2a292021b)]()
 [![Gmail Badge](https://img.shields.io/badge/-gabrieltijon@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:GABRIELTIJON@GMAIL.COM)](mailto:gabrieltijon@gmail.com)
 [![GitHub TijonSilva]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/TijonSilva)

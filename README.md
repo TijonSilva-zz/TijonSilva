@@ -4,7 +4,7 @@
 
 - ⌨️ &nbsp; Iniciando na programação, em busca de estagio.
 - 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/">UNINOVE</a>.
-- 💼 &nbsp; Trabalhando como **SUPORTE TECNICO HP BRASIL** na <a href="https://www.sitel.com/pt-br/">SITEL</a>
+- 💼 &nbsp; Trabalhando como **ESTAGIÁRIO DE TI** na <a href="http://www.hbraviacao.com.br/">HBR AVIAÇÃO</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA SCRIPT & REACTJS **.
 
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
